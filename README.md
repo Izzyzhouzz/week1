@@ -4,7 +4,6 @@
 - Gain familiarity with AI tools through hands on experience
 - Identify dilemmas around AI technologies in school settings
 
-- [Week 1](README.md)
 ## Materials
 - [Slide deck](https://docs.google.com/presentation/d/1S8lE8BqhXMFI0BMy2t0NmmDzPwOWpEfGxtLgaLz7GKQ/edit?slide=id.g2d94b4c8605_0_3#slide=id.g2d94b4c8605_0_3)
 - [Worksheets](https://drive.google.com/drive/folders/1Lkm0j3nYjGUEJRfe7WRMTScxJigOnzE0?usp=drive_link)
