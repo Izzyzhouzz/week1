@@ -36,6 +36,7 @@ Students participating in research take the AI attitudes and opinions pre-survey
 
 ### AI Experiences Bingo
 Students grab a bingo card and talk to their classmates about their experiences with AI. To mark off an item, they need their classmate to share the experience. First one to 5 in a row wins!
+
 [Bingo Card 1](https://drive.google.com/file/d/17MJ0Z15NMuJ2JRKNFkAcmq8JKAFGP5A9/view?usp=drive_link) | [Bingo Card 2](https://drive.google.com/file/d/1TFUyBAPNkSR7M9w_U1gZnlDWD6XeGXB8/view?usp=drive_link) | [Bingo Card 3](https://drive.google.com/file/d/1_iv5xiuY1IPWduyIqPxKl_d5Hg_uyhuA/view?usp=drive_link)
 
 ### Imagine AI Game
