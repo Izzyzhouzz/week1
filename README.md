@@ -10,7 +10,7 @@
 
 ## Outline
 1. Survey (15 min)
-2. Bingo about AI experiences (10 min)
+2. Bingo about AI experiences (10 min) 
 3. Intro to AI (10 min)
 
    - What do you think of when you think of AI? 
