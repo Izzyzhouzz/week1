@@ -3,6 +3,7 @@
 - Reflect on personal experience with AI 
 - Gain familiarity with AI tools through hands on experience
 - Identify dilemmas around AI technologies in school settings
+- hello
 
 ## Materials
 - [Slide deck](https://docs.google.com/presentation/d/1S8lE8BqhXMFI0BMy2t0NmmDzPwOWpEfGxtLgaLz7GKQ/edit?slide=id.g2d94b4c8605_0_3#slide=id.g2d94b4c8605_0_3)
